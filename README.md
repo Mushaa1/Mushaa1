@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h1 align="center" style="color: red;">Arthur Lima</h1>
+<h1 align="center">
+  <span style="color: red;">Arthur Lima</span>
+</h1>
 
 ###
 
