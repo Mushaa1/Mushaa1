@@ -70,5 +70,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mushaa1/Mushaa1/output/snake.svg" alt="Snake animation" />
