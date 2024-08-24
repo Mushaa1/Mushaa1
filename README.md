@@ -4,8 +4,10 @@
 
 ###
 
-<p align="left">
-  <span id="typed-text"></span><span id="cursor">|</span>
+<p align="center" dir="auto">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=full-stack+developer;Each+lesson+is+a+step+toward+growth" alt="Typing SVG" />
+  </a>
 </p>
 
 ###
@@ -68,4 +70,3 @@
 ###
 
 <br clear="both">
-
