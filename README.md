@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-  <img src="URL-DA-IMAGEM/IMG-20240824-WA0052.jpg" alt="Arthur Lima" style="max-width: 100%; height: auto;" />
+  <img src="/1000497762-removebg-preview.png" alt="Arthur Lima" style="width: 20%; height: auto; margin-top: 2em;" />
 </h1>
 
 ###
