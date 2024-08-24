@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-lima-1439032bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" style="filter: invert(21%) sepia(77%) saturate(6260%) hue-rotate(1deg) brightness(92%) contrast(102%);" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discord.com/invite/qeCkkP7e" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" style="filter: invert(21%) sepia(77%) saturate(6260%) hue-rotate(1deg) brightness(92%) contrast(102%);" alt="discord logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/tutyynn?igsh=azBxMWJsMTNuZmh0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" style="filter: invert(21%) sepia(77%) saturate(6260%) hue-rotate(1deg) brightness(92%) contrast(102%);" alt="instagram logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
 
