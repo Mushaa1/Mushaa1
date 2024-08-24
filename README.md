@@ -1,16 +1,18 @@
 <br clear="both">
 
-<h1 align="center">Arthur Lima</h1>
+<h1 align="center" style="color: red;">Arthur Lima</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">
+  <span id="typed-text"></span><span id="cursor">|</span>
+</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="color: red;">
   <a href="https://www.linkedin.com/in/arthur-lima-1439032bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -69,4 +71,20 @@
 
 <img src="https://raw.githubusercontent.com/Mushaa1/Mushaa1/output/snake.svg" alt="Snake animation" />
 
-###
+<script>
+  const text = "My name is Arthur Lima and I'm a Full Stack developer, from Brazil.";
+  let index = 0;
+  
+  function typeWriter() {
+    if (index < text.length) {
+      document.getElementById("typed-text").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, 50);
+    } else {
+      document.getElementById("cursor").style.display = "none";
+    }
+  }
+  
+  window.onload = typeWriter;
+</script>
+
