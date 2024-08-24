@@ -69,22 +69,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mushaa1/Mushaa1/output/snake.svg" alt="Snake animation" />
-
-<script>
-  const text = "My name is Arthur Lima and I'm a Full Stack developer, from Brazil.";
-  let index = 0;
-  
-  function typeWriter() {
-    if (index < text.length) {
-      document.getElementById("typed-text").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, 50);
-    } else {
-      document.getElementById("cursor").style.display = "none";
-    }
-  }
-  
-  window.onload = typeWriter;
-</script>
-
