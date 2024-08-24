@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-  <span style="color: red;">Arthur Lima</span>
+  <img src="URL-DA-IMAGEM/IMG-20240824-WA0052.jpg" alt="Arthur Lima" style="max-width: 100%; height: auto;" />
 </h1>
 
 ###
