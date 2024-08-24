@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-lima-1439032bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/linkedin.png" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discord.com/invite/qeCkkP7e" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/discord.png" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/tutyynn?igsh=azBxMWJsMTNuZmh0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.icons8.com/ios-filled/50/ff0000/instagram-new.png" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
 
@@ -63,12 +63,4 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mushaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mushaa1/Mushaa1/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mushaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_bor
