@@ -16,7 +16,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-lima-1439032bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> 
-&nbsp;&nbsp;
     <img src="https://img.icons8.com/ios-filled/50/ff0000/linkedin.png" width="40" height="40" alt="linkedin logo" style="margin-right: 30px;" />
   </a>
   <a href="https://discord.com/invite/qeCkkP7e" target="_blank">
