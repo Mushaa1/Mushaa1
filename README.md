@@ -72,7 +72,7 @@ I am seeking opportunities to apply my skills in real-world projects and continu
   <img src="https://github-readme-stats.vercel.app/api?username=Mushaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mushaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph" />
   <br><br>
- <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+ <p>📄Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   <br>
   <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mushaa1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mushaa1&theme=dracula&hide_border=true" height="250" style="max-width: 50%;"></a></p>
 
