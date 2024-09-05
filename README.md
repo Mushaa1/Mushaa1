@@ -32,7 +32,11 @@
 
 ###
 
-<p align="left">I am 23 years old and have more than 1 and a half years of programming experience, specializing as a Full Stack developer. I have solid skills in Java, JavaScript, Python, PHP, and frameworks like React, as well as experience with MySQL, HTML and CSS. This allows me to create complete applications, from user interface to server logic and database management. In addition to technical skills, I bring with me a practical and collaborative approach. I'm curious and I'm always looking to learn new technologies and improve my knowledge. I believe that communication and problem solving are essential to face challenges and create effective solutions. I'm looking for opportunities to apply my knowledge in real projects and continue growing as a Full Stack developer. My goal is to contribute to an innovative team and continue to evolve professionally.</p>
+<p align="left">I am 23 years old and have over 1.5 years of programming experience, specializing as a Full Stack developer. I possess strong skills in Java, JavaScript, Python, PHP, and frameworks such as React, along with experience in MySQL, HTML, and CSS. This combination enables me to build comprehensive applications, ranging from user interfaces to server logic and database management.
+
+In addition to my technical expertise, I bring a practical and collaborative approach to my work. I am always curious and eager to learn new technologies and enhance my knowledge. I believe communication and problem-solving are key to overcoming challenges and creating effective solutions.
+
+I am seeking opportunities to apply my skills in real-world projects and continue growing as a Full Stack developer. My goal is to contribute to an innovative team while advancing professionally.</p>
 
 ###
 
