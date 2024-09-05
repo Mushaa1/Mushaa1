@@ -58,13 +58,20 @@
 
 ###
 
-<h2 align="left">Stats and activity</h2>
+<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📊 Stats and Activity</h2><a id="user-content--stats-and-activity" class="anchor" aria-label="Permalink: 📊 Stats and Activity" href="#-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+  <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+</svg></a></div></summary>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mushaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mushaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph" />
+  <br><br>
+ <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+  <br>
+  <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mushaa1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mushaa1&theme=dracula&hide_border=true" height="250" style="max-width: 50%;"></a></p>
+
 </div>
 
 ###
