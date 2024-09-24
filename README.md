@@ -8,7 +8,7 @@
 
 <p align="center" dir="auto">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=full-stack+developer;Cada+Lição+é+um+Passo+em+Direção+Ao+Crescimento" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=full-stack+developer;Each+Lesson+is+a+Step+Toward+Growth" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,15 +28,15 @@
 
 ###
 
-<h2 align="center">  About me 🧑‍💻</h2>
+<h2 align="center">  Sobre mim 🧑‍💻</h2>
 
 ###
 
-<p align="left">I am 23 years old and have over 1.5 years of programming experience, specializing as a Full Stack developer. I possess strong skills in Java, JavaScript, Python, PHP, and frameworks such as React, along with experience in MySQL, HTML, and CSS. This combination enables me to build comprehensive applications, ranging from user interfaces to server logic and database management.
+<p align="left">Tenho 23 anos e mais de 1,5 anos de experiência em programação, especializando-me como desenvolvedor Full Stack. Possuo fortes habilidades em Java, JavaScript, Python, PHP e frameworks como React, além de experiência em MySQL, HTML e CSS. Essa combinação me permite criar aplicativos abrangentes, desde interfaces de usuário até lógica de servidor e gerenciamento de banco de dados.
 
-In addition to my technical expertise, I bring a practical and collaborative approach to my work. I am always curious and eager to learn new technologies and enhance my knowledge. I believe communication and problem-solving are key to overcoming challenges and creating effective solutions.
+Além da minha experiência técnica, trago uma abordagem prática e colaborativa para o meu trabalho. Estou sempre curioso e ansioso para aprender novas tecnologias e aprimorar meus conhecimentos. Acredito que a comunicação e a resolução de problemas são fundamentais para superar desafios e criar soluções eficazes.
 
-I am seeking opportunities to apply my skills in real-world projects and continue growing as a Full Stack developer. My goal is to contribute to an innovative team while advancing professionally.</p>
+Estou buscando oportunidades para aplicar minhas habilidades em projetos do mundo real e continuar crescendo como desenvolvedor Full Stack. Meu objetivo é contribuir para uma equipe inovadora enquanto avanço profissionalmente.</p>
 
 ###
 
@@ -62,7 +62,7 @@ I am seeking opportunities to apply my skills in real-world projects and continu
 
 ###
 
-<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📊 Stats and Activity</h2><a id="user-content--stats-and-activity" class="anchor" aria-label="Permalink: 📊 Stats and Activity" href="#-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📊 Status e Atividades</h2><a id="user-content--stats-and-activity" class="anchor" aria-label="Permalink: 📊 Stats and Activity" href="#-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
   <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
 </svg></a></div></summary>
 
@@ -70,9 +70,11 @@ I am seeking opportunities to apply my skills in real-world projects and continu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mushaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mushaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mushaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Linguagens%20Mais%20Usadas" height="150" alt="languages graph" />
   <br><br>
- <p>📄Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+ <p>📄Observação: os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou o nível de habilidade.
+
+</p>
   <br>
   <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mushaa1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mushaa1&theme=dracula&hide_border=true" height="250" style="max-width: 50%;"></a></p>
 
